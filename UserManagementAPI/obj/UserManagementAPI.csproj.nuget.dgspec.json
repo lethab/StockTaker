@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oster Sono\\source\\repos\\StockTaker\\UserManagementAPI\\UserManagementAPI.csproj": {}
+    "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oster Sono\\source\\repos\\StockTaker\\UserManagementAPI\\UserManagementAPI.csproj": {
+    "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oster Sono\\source\\repos\\StockTaker\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.csproj",
         "projectName": "UserManagementAPI",
-        "projectPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTaker\\UserManagementAPI\\UserManagementAPI.csproj",
+        "projectPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.csproj",
         "packagesPath": "C:\\Users\\Oster Sono\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTaker\\UserManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oster Sono\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
