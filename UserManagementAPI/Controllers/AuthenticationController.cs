@@ -1,7 +1,10 @@
-﻿using Azure;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using UserManagementAPI.Models.Authentication.Login;
 using UserManagementAPI.Models.Authentication.SignUp;
 
 namespace UserManagementAPI.Controllers
@@ -20,7 +23,8 @@ namespace UserManagementAPI.Controllers
             _configuration = configuration;
         }
 
-        [HttpPost]
+
+        [HttpPost("api/Authentication/Register")]
         public async Task<IActionResult> Register([FromBody] RegisterUser registerUser, string role)
         {
             //Check Model State
@@ -61,24 +65,70 @@ namespace UserManagementAPI.Controllers
                 //Add Role to user
                 await _userManager.AddToRoleAsync(user, role);
                 return StatusCode(StatusCodes.Status201Created);//return StatusCode(StatusCodes.Status201Created,
-                                                              //    new Response { Status = "Error", ReasonPhrase = "User Created" });
+                                                                //    new Response { Status = "Error", ReasonPhrase = "User Created" });
             }
             else
             {
                 return StatusCode(StatusCodes.Status500InternalServerError);//return StatusCode(StatusCodes.Status500InternalServerError,
                                                                             //    new Response { Status = "Error", ReasonPhrase = "This role does not exist" });
             }
+        }
 
+        [HttpPost("api/Authentication/Login")]
+        public async Task<IActionResult> Login([FromBody] LoginModel loginModel)
+        {
+            //Check Model State
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
+            //Check if User Exists
+            var user = await _userManager.FindByNameAsync(loginModel.Username);
+            if (user != null && await _userManager.CheckPasswordAsync(user, loginModel.Password))  //Check the Password
+            {
+                //Claim List creation
+                var authClaims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+                };
 
-            //return result.Succeeded
-            //    ? StatusCode(StatusCodes.Status201Created)//return StatusCode(StatusCodes.Status201Created,
-            //                                              //    new Response { Status = "Error", ReasonPhrase = "User Created" });               
-            //    : StatusCode(StatusCodes.Status500InternalServerError);//return StatusCode(StatusCodes.Status500InternalServerError,
-            //                                                           //    new Response { Status = "Error", ReasonPhrase = "User Failed to Create" });
+                //Add role to claimList
+                var userRoles = await _userManager.GetRolesAsync(user);
 
+                foreach (var role in userRoles)
+                {
+                    authClaims.Add(new Claim(ClaimTypes.Role, role));
+                }
 
-            //Assign Role
+                //generate token with claims
+                var jwtToken = GetToken(authClaims);
+
+                //returning the token
+                return Ok(new
+                {
+                    token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
+                    expiration = jwtToken.ValidTo
+                });
+            }
+            return Unauthorized();
+
+        }
+
+        private JwtSecurityToken GetToken(List<Claim> authClaims)
+        {
+            var authSigninKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JWT:Secret"]));
+
+            var token = new JwtSecurityToken(
+                issuer: _configuration["JWT:ValidIssuer"],
+                audience: _configuration["JWT:ValidAudience"],
+                expires: DateTime.Now.AddHours(3),
+                claims: authClaims,
+                signingCredentials: new SigningCredentials(authSigninKey, SecurityAlgorithms.HmacSha256)
+                );
+
+            return token;
         }
     }
 }

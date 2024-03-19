@@ -3,14 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\authentication\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\authentication\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\bin\\Debug\\net8.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\user.management.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -25,27 +59,8 @@
       "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\user.management.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\authentication\\signup\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -58,11 +73,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "RegisterUser.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Models\\Authentication\\SignUp\\RegisterUser.cs",
               "RelativeDocumentMoniker": "Models\\Authentication\\SignUp\\RegisterUser.cs",
@@ -76,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
               "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywCcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T22:13:00.109Z",
               "IsPinned": true,
@@ -90,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCQAAAAiAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T20:34:52.692Z",
               "IsPinned": true,
@@ -104,124 +119,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.Management.Service.AssemblyInfoInputs.cache",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
-              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-03-18T21:08:31.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.Management.Service.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
-              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Models\\Authentication\\Login\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication\\Login\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Models\\Authentication\\Login\\LoginModel.cs",
+              "RelativeToolTip": "Models\\Authentication\\Login\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T21:08:26.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\EmailService.cs",
-              "RelativeToolTip": "..\\User.Management.Service\\Services\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:36:02.018Z",
+              "WhenOpened": "2024-03-19T03:29:00.066Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\IEmailService.cs",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\IEmailService.cs",
-              "RelativeToolTip": "..\\User.Management.Service\\Services\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:34:46.629Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T18:40:10.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Management.Service",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\User.Management.Service.csproj",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\User.Management.Service.csproj",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\User.Management.Service.csproj",
+              "RelativeToolTip": "..\\User.Management.Service\\User.Management.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T04:08:28.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T21:08:23.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T20:43:17.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "EmailConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\EmailConfiguration.cs",
               "RelativeDocumentMoniker": "..\\User.Management.Service\\Models\\EmailConfiguration.cs",
               "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\EmailConfiguration.cs",
               "RelativeToolTip": "..\\User.Management.Service\\Models\\EmailConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T19:00:05.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "..\\User.Management.Service\\Models\\Message.cs",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\Message.cs",
-              "RelativeToolTip": "..\\User.Management.Service\\Models\\Message.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:02:27.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-18T18:40:10.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Models\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
@@ -234,7 +190,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.http",
+              "RelativeDocumentMoniker": "UserManagementAPI.http",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\UserManagementAPI.http",
+              "RelativeToolTip": "UserManagementAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-18T22:05:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T04:11:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "User.Management.Service.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:08:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:36:02.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.Management.Service.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-03-18T21:08:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:34:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:08:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:43:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\User.Management.Service\\Models\\Message.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:02:27.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": "..\\.github\\workflows\\dotnet.yml",
@@ -244,10 +317,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-03-18T00:14:19.951Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

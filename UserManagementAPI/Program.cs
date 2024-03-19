@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using UserManagementAPI.Models;
-using User.Management.Service.Models;
+//using User.Management.Service.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,11 +27,11 @@ builder.Services.AddAuthentication(options =>
 });
 
 
-// Add Email Configs.
-var emailConfig = configuration
-    .GetSection("EmailConfiguration")
-    .Get<EmailConfiguration>();
-builder.Services.AddSingleton(emailConfig);
+//// Add Email Configs.
+//var emailConfig = configuration
+//    .GetSection("EmailConfiguration")
+//    .Get<EmailConfiguration>();
+//builder.Services.AddSingleton(emailConfig);
 
 
 builder.Services.AddControllers();
