@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}|UserManagementAPI.csproj|c:\\users\\oster sono\\source\\repos\\stocktackernew\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,7 +128,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
@@ -141,17 +141,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T22:09:47.559Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
               "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAE0AAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T22:13:00.109Z",
               "IsPinned": true,
@@ -215,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Models\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
@@ -238,7 +239,8 @@
               "ViewState": "AQIAAEwAAAAAAAAAAAAgwGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T06:29:52.932Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -265,7 +267,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T19:34:46.629Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -278,7 +281,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T19:36:02.018Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -352,21 +356,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ManagerController.cs",
               "DocumentMoniker": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\ManagerController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
               "ToolTip": "C:\\Users\\Oster Sono\\source\\repos\\StockTackerNew\\UserManagementAPI\\Controllers\\ManagerController.cs",
               "RelativeToolTip": "Controllers\\ManagerController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwFMAAAALAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T10:54:40.823Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -430,7 +430,8 @@
               "RelativeToolTip": "Services\\Product\\IProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T06:57:16.023Z"
+              "WhenOpened": "2024-03-19T06:57:16.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -442,7 +443,8 @@
               "RelativeToolTip": "Models\\Invoice\\InvoiceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T06:13:05.611Z"
+              "WhenOpened": "2024-03-19T06:13:05.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -454,7 +456,8 @@
               "RelativeToolTip": "..\\User.Management.Service\\Models\\EmailConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:00:05.498Z"
+              "WhenOpened": "2024-03-18T19:00:05.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -466,7 +469,8 @@
               "RelativeToolTip": "UserManagementAPI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-18T22:05:01.565Z"
+              "WhenOpened": "2024-03-18T22:05:01.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -478,7 +482,8 @@
               "RelativeToolTip": "bin\\Debug\\net8.0\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-19T04:11:58.756Z"
+              "WhenOpened": "2024-03-19T04:11:58.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -502,7 +507,8 @@
               "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T21:08:26.928Z"
+              "WhenOpened": "2024-03-18T21:08:26.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -514,7 +520,8 @@
               "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\User.Management.Service.AssemblyInfoInputs.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-03-18T21:08:31.334Z"
+              "WhenOpened": "2024-03-18T21:08:31.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -526,7 +533,8 @@
               "RelativeToolTip": "..\\User.Management.Service\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T21:08:23.637Z"
+              "WhenOpened": "2024-03-18T21:08:23.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -538,7 +546,8 @@
               "RelativeToolTip": "..\\User.Management.Service\\Models\\Message.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T19:02:27.955Z"
+              "WhenOpened": "2024-03-18T19:02:27.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -550,7 +559,12 @@
               "RelativeToolTip": "..\\.github\\workflows\\dotnet.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-03-18T00:14:19.951Z"
+              "WhenOpened": "2024-03-18T00:14:19.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

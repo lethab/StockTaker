@@ -1,8 +1,10 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.JsonPatch.Internal;
 using Microsoft.AspNetCore.Mvc;
 using UserManagementAPI.Models.Authentication.SignUp;
 using UserManagementAPI.Models.Invoice;
+using UserManagementAPI.Models.Product;
 using UserManagementAPI.Services.Invoice;
 using UserManagementAPI.Services.Product;
 
@@ -64,27 +66,53 @@ namespace UserManagementAPI.Controllers
         }
 
         //[HttpGet("GetItemsSoldPerProduct")]
-        //public async Task<IActionResult> GetItemsSoldPerProduct()
+        //public  List<ProductModel> GetItemsSoldPerProduct()
         //{
-        //    //Check Model State
-        //    if (!ModelState.IsValid)
-        //    {
-        //        return BadRequest(ModelState);
-        //    }
+        //    var getProducts = _productService.GetProducts();
 
-        //    var getProducts = _invoiceService.EditInvoice(invoice);
-        //    if (addInvoice)
-        //    {
-        //        return StatusCode(StatusCodes.Status200OK);
-        //    }
-        //    else
-        //    {
-        //        return StatusCode(StatusCodes.Status500InternalServerError);
-        //    }
+        //    var products = getProducts.Where(_ => _.isSold).GroupBy(_ => _.ProductType).ToList();     
+        //    return products.Select(p => new ProductModel { })
         //}
 
+        [HttpGet("GetInProductsInStock")]
+        public string GetInProductsInStock()
+        {
+            var getProducts = _productService.GetProducts();
+
+            int prodInStock = getProducts.Where(_ => !_.isSold).Count();
+
+            return "Number of products in stock is : "+ prodInStock;
+        }
+
+        [HttpGet("GetSoldProducts")]
+        public string GetSoldProducts()
+        {
+            var getProducts = _productService.GetProducts();
+
+            int prodNotInStock = getProducts.Where(_ => _.isSold).Count();
+
+            return "Number of Sold products : " + prodNotInStock;
+        }
 
 
+        [HttpGet("GetSoldVSStockProducts")]
+        public string GetSoldProductsInStock()
+        {
+            var getProducts = _productService.GetProducts();
+
+            int prodNotInStock = getProducts.Where(_ => _.isSold).Count();
+            int prodInStock = getProducts.Where(_ => !_.isSold).Count();
+
+            return "Number of Sold products : " + prodNotInStock + " Number of Products in STock is : "+prodInStock;
+        }
+
+        [HttpGet("GetNumberOfProducts")]
+        public string GetNumberOfProducts()
+        {
+            var getProducts = _productService.GetProducts().Count();
+
+            return "Number of Sold products : " + getProducts;
+        }
 
     }
 }
