@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagementAPI", "UserManagementAPI.csproj", "{45C8B02A-50F6-4E2A-8456-A9D9C4B22200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Management.Service", "..\User.Management.Service\User.Management.Service.csproj", "{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Management.Service", "..\User.Management.Service\User.Management.Service.csproj", "{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "..\UI\UI.csproj", "{05F4BC41-A5B1-4839-AE01-58F45BF339AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86100FF0-4E8D-4E40-A3AF-168B0FC7045A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F4BC41-A5B1-4839-AE01-58F45BF339AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F4BC41-A5B1-4839-AE01-58F45BF339AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F4BC41-A5B1-4839-AE01-58F45BF339AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F4BC41-A5B1-4839-AE01-58F45BF339AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

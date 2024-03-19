@@ -1,11 +1,16 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using UserManagementAPI.Models.Invoice;
+using UserManagementAPI.Models.Product;
 
 namespace UserManagementAPI.Models
 {
     public class ApplicationDBContext : IdentityDbContext<IdentityUser>
     {
+        public DbSet<ProductModel> Products { get; set; }
+        public DbSet<InvoiceModel> Invoice { get; set; }
+
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options)
         {
         }
