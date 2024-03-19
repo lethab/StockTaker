@@ -4,3 +4,84 @@
 
 /.vs/StockTackerNew/v17/.wsuo
 /.vs/StockTackerNew/v17/DocumentLayout.json
+
+# Ignore Visual Studio files
+/.vs/
+
+# Ignore build artifacts
+/bin/
+/obj/
+
+# Ignore NuGet package directory
+/packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.cache
+*.vsconfig
+
+# Ignore .NET Core SDK files
+.globalconfig
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Ignore build-related files
+/appsettings.json
+/appsettings.Development.json
+
+# Ignore any files with sensitive data
+secrets.json
+
+# Ignore any IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs and other generated files
+*.log
+*.txt
+*.cache
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+
+# Ignore user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Azure publish settings
+*.PublishSettings
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore Visual Studio Code workspace files
+.vscode/
+
+# Ignore dotCover files
+*.dotCover
+
+# Ignore SonarQube files
+.sonarqube/
+
+# Ignore Rider files
+.idea/
+
+# Ignore GitHub actions files
+.github/
